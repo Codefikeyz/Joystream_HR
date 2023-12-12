@@ -220,7 +220,7 @@ More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-
 - Supports multi-chain aggregation, starting with Binance Smart Chain (BSC) and Arbitrum (ARB).
 - Strives for stable Web3 liquidity and builds a comprehensive financial service system.
 
-[LUCHOUSL](https://gleev.xyz/channel/48559)********
+**[LUCHOUSL](https://gleev.xyz/channel/48559)**
 
 - Channel has 20,710,164 views, 139K subscribers, and 348 videos.
 - Primary focus on Cryptocurrencies, Online Business, and Finances.
