@@ -77,20 +77,9 @@ Provided stats below are for non-empty channels only:
 
 ![https://i.imgur.com/i7aNsWk.png](https://i.imgur.com/i7aNsWk.png)
 
-# YouTube Partner Program [NOT READY]
+# YouTube Partner Program
 
-- Total payouts: **7.3M JOY** (**+0.2M JOY**)
-
-Channels:
-
-- Total sign up channels **14.36K**  ****(**+3.2K** channels)
-- Total  YT subscribers ~**56.7M** ⭐ (**+6.7M**)
-
-Videos:
-
-- New synced videos: **437**
-
-More stats on YPP program is available [here](https://www.notion.so/YPP-Rewards-Payout-ending-28-11-ae775dc333604eeb9db6894b5a7e9d5b?pvs=21)
+The Gleev YouTube Partner Program continues to thrive, demonstrating its robustness with recent updates that have significantly enhanced the overall experience for content creators. Notably, the program has introduced a noteworthy improvement by doubling the rewards for Synced videos. This enhancement not only serves as an incentive for creators but also underscores Gleev's commitment to and rewarding the efforts of its users. As a result of these updates, the Gleev YouTube Partner Program stands as a more appealing and rewarding platform for content creators looking to engage and grow their audiences.
 
 [➡️ Join YPP](https://gleev.xyz/ypp)
 
