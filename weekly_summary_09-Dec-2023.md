@@ -14,14 +14,14 @@
 - Total supply: **1,038,519,686 JOY**
 - JOY inflation (since mainnet launch): **3.86%**
 - Circulating supply:  **761,299,209 JOY**
-- Weekly Tokens Minted: **-1,221,920 JOY**
+- Weekly Tokens Minted: **8,714,895 JOY**
 - Weekly Tokens Burned: **(9,936,815) JOY**
 
 DAO Spending:
 
 - Start Issuance: **1,039,741,606 JOY**
 - End Issuance: **1,038,519,686 JOY**
-- Total minted (net): **-1,221,920 JOY**
+- Total minted (net): **8,714,895 JOY**
 
 *including:*
 
