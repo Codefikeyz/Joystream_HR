@@ -132,7 +132,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # Recent Recruitments
 
-> [@GodsHunter](https://pioneerapp.xyz/#/members/1541) was as hired on the role of storage providers within the Storage Working Group. He actively contributes to the growth of the local crypto community, with a primary focus on validation, and he holds the esteemed position of a senior ambassador for the Moonbeam network. His typical endeavors involve crafting valuable content and actively participating in governance initiatives.
+> [@GodsHunter](https://pioneerapp.xyz/#/members/1541) was hired as a storage provider within the Storage Working Group. He actively contributes to the growth of the local crypto community, with a primary focus on validation, and he holds the esteemed position of a senior ambassador for the Moonbeam network. His typical endeavors involve crafting valuable content and actively participating in governance initiatives.
 > 
 
 > [@sieemma](https://pioneerapp.xyz/#/members/458) was hired as a distribution provider within the Distribution Working Group. He has over 5 years experience in crypto, he has not only administered nodes on diverse testnets but has also contributed significantly as a Joystream storage worker. His expertise extends to moderating for various crypto projects, showcasing a balance between technical proficiency and community engagement. He effortlessly deploys testnet nodes, exemplifying a well-rounded skill set in the crypto space.
