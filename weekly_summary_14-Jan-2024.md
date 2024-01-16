@@ -10,7 +10,7 @@
 # Tokenomics
 
 - Total supply: **1,044,258,907.922 JOY**
-- JOY inflation (previous 12 month period): **4.43%**
+- JOY inflation (previous 12 month period): **4.303%**
 - Circulating supply: **803,982,420 JOY**
 - Weekly Tokens Minted: **735,674.913 JOY**
 - Weekly Tokens Burned: **(29,915.018) JOY**
@@ -163,7 +163,7 @@ Andybut has considerable experience as a node runner, actively participating in 
 
 [Mr. Bovo](https://pioneerapp.xyz/#/members/4133)
 
-- A dedicated worker in the builders working group with expertise in core engineering and runtine development
+- Currently the Distribution working group lead and a dedicated worker in the builders working group with expertise in core engineering and runtine development
 - Recognised for his thorough investigation into storage node timeouts.
 - He has also conducted a valuable investigation into the selection process of the Atlas operator.
 
