@@ -118,7 +118,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 **Hot Topics**
 
-- [How Much To Spend?}(https://pioneerapp.xyz/#/forum/thread/799)
+- [How Much To Spend?](https://pioneerapp.xyz/#/forum/thread/799)
 - [DAO resources allocation](https://pioneerapp.xyz/#/forum/thread/809)
 - [Collaborative Efforts to Strengthen Our DAO During Market Volatility](https://pioneerapp.xyz/#/forum/thread/807)
 - [Buying back Joy & providing liquidity](https://pioneerapp.xyz/#/forum/thread/804)
