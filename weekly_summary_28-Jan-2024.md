@@ -62,7 +62,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **4,559**
 - Weekly NFT Growth: **49**
-- Weekly NFT Growth, %: **1.09 %**
+- Weekly NFT Growth, %: **1.09%**
 - Weekly NFT sold: 2
 
 ![28 nfts](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/80c2594b-5833-4921-b0db-a2918b0cc89c)
@@ -135,8 +135,8 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 - Election stage: Revealing period (36 hours remaining)
 - Candidates number: 6
-- Candiate list: Klaudiusz || YYAGI || Vikan || Tomato || Mayor Tee || Maxlevush
-- Total candidate locked: ~1.08M $JOY (~$25.7K USD)
+- Candiate list: [Klaudiusz](https://pioneerapp.xyz/#/members/2233) || [YYAGI](https://pioneerapp.xyz/#/members/3098) || [Vikan](https://pioneerapp.xyz/#/members/4058) || [Tomato](https://pioneerapp.xyz/#/members/2) || [Mayor Tee](https://pioneerapp.xyz/#/members/4211) || [Maxlevush](https://pioneerapp.xyz/#/members/2130)
+- Total candidate locked: 1.08M $JOY ($25.7K USD)
 - Total votes: 120 votes / 71.3m $JOY ($1.69m USD)
 - Revealed votes: 77 vote / 51M $JOY ($1.2M USD)
 - Unrevealed votes: 43 votes / 20.2M $JOY (~$480K USD)
@@ -165,9 +165,11 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Rockstars of The Week**
 
-[Duskfox](https://pioneerapp.xyz/#/members/41838) ([Twitter](https://twitter.com/DuskfoxOfficial))
+[Prontera](https://pioneerapp.xyz/#/members/1737)
 
-- 
+- Prontera, a dedicated founding member and worker in the content working group, recently switched to fulltime daily YPP verification checks.
+- Despite personal commitments, including two flights over the last four days, Prontera remained actively engaged in supporting the group.
+- His commitment was further demonstrated by assisting with problem-solving alongside the group lead, even during late-night hours.
 
 # **Notable Content Creators**
 
@@ -177,7 +179,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 - Transitioning to YouTube, channel focuses on content about online money-making strategies.
 - Viewers benefit from Artem's valuable tips while he profits from their views, creating a win-win situation.
 
-**[BeIN CRYPTO](https://gleev.xyz/channel/51600)**
+[BeIN CRYPTO](https://gleev.xyz/channel/51600)
 
 - BeIN CRYPTO shares insights on cryptocurrencies, blockchain projects, and meme-inspired tokens.
 - It covers investment opportunities, earning strategies, and updates on emerging Web3 games and tokens.
