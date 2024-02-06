@@ -9,7 +9,7 @@
 
 # Tokenomics
 
-- Total supply: **1,046,284,367.053 JOY**
+- Total supply: **1,046,284,367 JOY**
 - JOY inflation (past 12 months): **4.63%**
 - Circulating supply: **809,890,034 JOY**
 - Weekly Tokens Minted: **687,523.592 JOY**
@@ -18,7 +18,7 @@
 DAO Spending:
 
 - Start Issuance: **1,045,596,843.461 JOY**
-- End Issuance: **1,046,284,367.053 JOY**
+- End Issuance: **1,046,284,367 JOY**
 - Total minted (net): **687,523.592 JOY**
 
 *including:*
@@ -62,7 +62,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **4,623**
 - Weekly NFT Growth: **64**
-- Weekly NFT Growth, %: **1.41 %**
+- Weekly NFT Growth, %: **1.41%**
 - Weekly NFT sold: 4
 
 ![4_nft](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/e01558cb-dd9b-4920-a63f-d5931470db88)
@@ -71,7 +71,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Membership Accounts: **45,835**
 - Weekly Membership Accounts Growth: **2,377**
-- Weekly Membership Accounts Growth, %: **5.47 %**
+- Weekly Membership Accounts Growth, %: **5.47%**
 
 ![4_member](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/c99aa7f6-c603-4b8f-8510-ace4ddc1fca2)
 
