@@ -83,7 +83,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # Product Releases
 
-- Pioneer 2.4.1 patch was just release
+- Pioneer 2.4.1 patch was just released
     - Fixed
     Don't notify people of their own messages in threads they created.
 
@@ -97,7 +97,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 - DAO Daily Standup: Everyday From Monday-Friday at 9:30 am UTC
 - [Network Release Call](https://discord.gg/zjXdPvVH?event=1201783490199437362)
 - [28th Council Midterm Meeting](https://discord.gg/MXYUrAcP?event=1202153340172238858)
-- [HR Firside Chat](https://discord.gg/MXYUrAcP?event=1202616803080015872)
+- [HR Fireside Chat](https://discord.gg/MXYUrAcP?event=1202616803080015872)
 
 # **Recent Events**
 
