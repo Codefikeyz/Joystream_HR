@@ -144,7 +144,7 @@ Pioneer `2.5.0` was just released.
 [YYAGI](https://pioneerapp.xyz/#/members/3098)
 
 
-- Total candidate locked: ~833.6K $JOY (~$16.3K USD)
+- Total candidate locked: 833.6K $JOY (~$16.3K USD)
 - Total votes: 95 votes / 62M $JOY (~$1.2MUSD)
 - Revealed votes: 63 vote / 45.6M $JOY (~$896K USD)
 - Unrevealed votes: 32 votes / 16.3M $JOY (~$321K USD)
