@@ -10,7 +10,7 @@
 # Tokenomics
 
 - Total supply: **1,049,860,216.456 JOY**
-- JOY inflation (past 12 months): **4.99%**
+- JOY inflation (past 12 months): **4.32%**
 - Circulating supply: **859,346,952 JOY**
 - Weekly Tokens Minted: **494,578.076 JOY**
 - Weekly Tokens Burned: **(150,104.49) JOY**
@@ -79,11 +79,11 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
     
     Added
     
-    - Role mention.
+    - Role mention
     
     Fixed
     
-    - Proposals default order.
+    - Proposals default order
 
 # **Short-Term Roadmap**
 
@@ -93,78 +93,80 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 # **Upcoming Events**
 
 - DAO Daily Standup: Everyday From Monday-Friday at 9:30 am UTC
-- [Weekly Gleev/YPP Call](https://discord.gg/DQrkDhNg?event=1209078084507013160)
-- [Joystream Creators Fireside Chat](https://discord.gg/CJefnv56?event=1210536658831933530)
-- [30th Council Handover Meeting](https://discord.gg/CJefnv56?event=1211552730779226132)
+- [Network Release Call](https://discord.gg/vNFNEj2G?event=1209186395692863509)
+- [Weekly Gleev/YPP Call](https://discord.gg/vNFNEj2G?event=1209078144636813342)
+- [Joystream Creators Roundtable](https://discord.gg/kFBn3KCE?event=1215204526102155304)
+- [Network Release Call](https://discord.gg/vNFNEj2G?event=1214520866864627763)
 
 # **Recent Events**
 
 - DAO Daily Standup: Everyday From Monday-Friday
-- [Weekly Gleev/YPP Call](https://discord.gg/DQrkDhNg?event=1209078084507013160)
-- [30th Council Handover Meeting](https://discord.gg/CJefnv56?event=1211552730779226132)
-- [Milestone Unlocked: 1M uploaded videos and 50K on-chain memberships.](https://x.com/JoystreamDAO/status/1762141864466186663?s=20)
-- [Joystream Dashboard live on website homepage](https://twitter.com/JoystreamDAO/status/1764200112945799449)
-- [Tangem adds Joystream for Integration in Roadmap](https://twitter.com/Tangem/status/1763146966102413533)
+- [Network Release Call](https://discord.gg/KwAzP5Cm?event=1206649708928573460)
+- [Weekly Gleev/YPP Call](https://discord.gg/KwAzP5Cm?event=1209078114173452309)
+- [DAO Tech Working Group Alignment Call](https://discord.gg/KwAzP5Cm?event=1209503483414192250)
+- [Joystream Integration to Changenow.io](https://changenow.io/?amount=1&from=eth&to=joy)
+- [Nara Network Announced](https://blog.joystream.org/announcing-nara/)
 
 # **Forum**
 
 **Hot Topics**
 
-- [Transitioning Lead Salaries to USD-EMA30](https://pioneerapp.xyz/#/forum/thread/862)
-- [Validators: Underpaid or Overpaid?](https://pioneerapp.xyz/#/forum/thread/867)
-- [Memes/Infographics campaign](https://pioneerapp.xyz/#/forum/thread/869)
+- [Creating a Social and content creator Discord](https://pioneerapp.xyz/#/forum/thread/872)
+- [Luxor release](https://pioneerapp.xyz/#/forum/thread/876)
 
 **Other Topics**
 
-- [Dedicated channel for OTC P2P trades on Joystream markets/Telegram chat](https://pioneerapp.xyz/#/forum/thread/868)
+- [Council Salary review - March 2024](https://pioneerapp.xyz/#/forum/thread/874)
+- [Infrastructure Cost Reduction](https://pioneerapp.xyz/#/forum/thread/877)
 
 # **Open Positions**
 
 - [Gateway Operator](https://pioneerapp.xyz/#/working-groups/openings/appWorkingGroup-3)
 - [Joystream Designer](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupAlpha-36)
-- [Discord Admin](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupBeta-24)
 - [Content Marketing Manager](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupGamma-24)
 - [Graphic Designer](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupGamma-27)
 - [Storage WG Worker (Waiting List)](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-36)
 - [Storage Clustering Solution Architect](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-39)
 
-# Recent Recruitments
-
-> [Dmtrmltsv](https://pioneerapp.xyz/#/members/4401) was hired as the new Content Lead. 
-Dmtrmltsv is a former JSG member and has over 10 years of experience as an executive leading cross-functional international teams. Throughout his career, he has demonstrated exceptional team management skills, navigating complexities and fostering successful collaboration across borders. His leadership has been instrumental in achieving positive outcomes, and his insights are highly valuable for shaping future strategies
-> 
-
 # **Council Election**
 
 [Election round 31](https://pioneerapp.xyz/#/election)
 
-- stage: Announcing  Period
-- Candidates number: 1
+- Stage: Voting Period
+- Candidates number: 4
+- List of Candidates:
+    1. Vikan
+    2. tomato
+    3. Dmtrmltsv
+    4. Jenny
+
+- Total candidate locked: 688.88K $JOY (~$15.2K USD)
+- Total votes:  34 votes / 33.4M $JOY (~$740.6K USD)
+- Largest single vote: 12.5M $JOY (~$276.9K USD)
+- Elected individual council salary: 83.3k $JOY (~$1.8k USD)
+
 
 # Proposals
 
 ### Passed
 
-- [BWG Lead Reward](https://pioneerapp.xyz/#/proposals/preview/818)
-- [SWG Lead Reward](https://pioneerapp.xyz/#/proposals/preview/819)
-- [DWG Lead Reward](https://pioneerapp.xyz/#/proposals/preview/820)
-- [HRWG Lead Reward](https://pioneerapp.xyz/#/proposals/preview/821)
-- [MWG Lead Reward](https://pioneerapp.xyz/#/proposals/preview/822)
-- [External Agents For Content And Treasury](https://pioneerapp.xyz/#/proposals/preview/812)
-- [Using Web2 Services By DAO](https://pioneerapp.xyz/#/proposals/preview/810)
-- [Q1 2024 OKRs - V2](https://pioneerapp.xyz/#/proposals/preview/814)
-- [Transitioning Lead Salaries To USD-EMA30](https://pioneerapp.xyz/#/proposals/preview/817)
-- [Update CWGL Reward](https://pioneerapp.xyz/#/proposals/preview/815)
-- [Hire @Dmtrmltsv As Content WG Lead](https://pioneerapp.xyz/#/proposals/preview/813)
-- [Payment For Validator Dashboard](https://pioneerapp.xyz/#/proposals/preview/807)
-
-### **Not Passed**
-
-- [Attendance Policy For The DAO - V1](https://pioneerapp.xyz/#/proposals/preview/809)
+- [Membership WG Budget Request - 150k](https://pioneerapp.xyz/#/proposals/preview/823)
+- [Council Term 30 Plan](https://pioneerapp.xyz/#/proposals/preview/824)
+- [Reduce Validator Count From 43>39](https://pioneerapp.xyz/#/proposals/preview/811)
+- [Update HRWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/831)
+- [Update SWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/830)
+- [Update DWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/829)
+- [Update CWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/827)
+- [Update BWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/826)
+- [Increment For CWG For Workers Debt T29](https://pioneerapp.xyz/#/proposals/preview/825)
+- [Update MWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/828)
+- [Reimbursement For Reward To Validator](https://pioneerapp.xyz/#/proposals/preview/833)
+- [Attendance Policy For The DAO - V1](https://pioneerapp.xyz/#/proposals/preview/832)
 
 ### Deciding
 
-- [Membership WG Budget Request - 150k](https://pioneerapp.xyz/#/proposals/preview/823)
+- [Faucet Funding - 250k](https://pioneerapp.xyz/#/proposals/preview/834)
+- [Upgrade Joystream To Nara Runtime](https://pioneerapp.xyz/#/proposals/preview/816)
 
 ### **Gracing**
 
@@ -173,26 +175,31 @@ Dmtrmltsv is a former JSG member and has over 10 years of experience as an execu
 
 # **Rockstars of The Week**
 
-A special recognition goes to the JSgenesis team for their pivotal role in creating the Joystream dashboard, now live on the [Joystream.org](https://www.joystream.org/) homepage.
+**[Vladiccck](https://pioneerapp.xyz/#/members/6303)**
 
-- [Bedeho](https://pioneerapp.xyz/#/members/151)**:** Co-founder of JSG, led the entire dashboard development process from planning to execution. Bedeho's insightful feedback and reviews significantly contributed to the project's success.
-- [Dzidex](https://pioneerapp.xyz/#/members/510): Ensured robustness and smooth user experience by implementing error handling mechanisms, and optimizing the UI to minimize visual disruptions during data loading. He also demonstrated attention to detail and a commitment to further reviewing, pushing requests and refining the system's functionality and user interface.
-- Digitalimplementer: He was responsible for conceptualizing and implementing solutions to enhance the visualization of complex data within the dashboard. His role involved not only technical proficiency but also a keen understanding of design principles and user interaction dynamics to ensure the dashboard's effectiveness and usability for the end user.
-- [Magda](https://pioneerapp.xyz/#/members/7238): Was responsible for crafting the overall user experience and interface design of the dashboard. Translated user needs and requirements into intuitive, visually appealing, and functional designs, and collaborated closely with the team to ensure seamless integration of design elements into the final product.
+- Dedicated content creator on Joystream, part of VVK Studios team
+- Recently premiered exclusive short film on Gleev
+- Achieved top NFT selling status with movie NFT selling for 50,000 JOY
 
 # **Notable Content Creators**
 
-[HAnder](https://gleev.xyz/channel/56150)
+[El Corral de Jimmy](https://gleev.xyz/channel/57408)
 
-- Channel provides summaries and highlights of diverse anime series, showcasing themes like romance, fantasy, and drama.
-- Highlights unique plot points and character dynamics, drawing attention to unexpected twists and emotional moments.
-- Offers concise overviews of anime plots, catering to viewers interested in exploring different genres and storylines within the anime world.
+- Channel specializes in freestyle battles, captivating audiences with intense lyrical competitions.
+- Achieved Diamond Tier on Gleev YouTube Partner Program, showcasing exceptional performance and engagement.
+- Boasts a library of over 470 videos and has amassed over 225 million views, maintaining a loyal audience of over 1 million subscribers.
 
-[Tiza](https://gleev.xyz/channel/56155)
+[Historia Militar](https://gleev.xyz/channel/56830)
 
-- Video topics cover analysis and critique of online games like Minecraft, FNAF, and Poppy Playtime.
-- Explores controversies, failures, and trends in gaming, including reasons behind success/failure of games and YouTubers.
-- Content includes discussions on gaming trends, critiques of internet personalities, and examination of societal issues.
+- Exploration of various historical events and atrocities during World War II.
+- Coverage of significant moments, shedding light on lesser-known aspects of the war.
+- Insights into the lives of soldiers, guards, and leaders, as well as the aftermath of key events and the impact of war on different groups.
+
+[Aviación Militar](https://gleev.xyz/channel/56798)
+
+- Military Aviation Channel covering historical battles, current events, and global strategies.
+- Videos focus on aerial combat, tactics, and international conflicts, showcasing diverse air force capabilities.
+- Content includes country perspectives, historical events, and updates on military technology.
 
 # **Useful Links**
 
