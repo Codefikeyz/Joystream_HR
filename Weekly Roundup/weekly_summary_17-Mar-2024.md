@@ -10,7 +10,7 @@
 # Tokenomics
 
 - Total supply: **1,051,238,776.063 JOY**
-- JOY inflation (past 12 months): **5.13%**
+- JOY inflation (past 12 months): **4.36%**
 - Circulating supply: **860,726,647 JOY**
 - Weekly Tokens Minted: **1,378,559.608 JOY**
 - Weekly Tokens Burned: **(-84.296) JOY**
@@ -54,7 +54,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **5,099**
 - Weekly NFT Growth: **136**
-- Weekly NFT Growth, %: **2.75 %**
+- Weekly NFT Growth, %: **2.75%**
 - Weekly NFT sold: 1
 
 ![NFTs 32](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/1ca98a34-8dc1-4c9b-a230-08cda178d494)
@@ -63,7 +63,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Membership Accounts: **53,673**
 - Weekly Membership Accounts Growth: **1,237**
-- Weekly Membership Accounts Growth, %: **2.36 %**
+- Weekly Membership Accounts Growth, %: **2.36%**
 
 ![Membership 32](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/f9e5786d-827a-4a46-a915-19fdbb9cfd89)
 
@@ -75,15 +75,24 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # Product Releases
 
-- Pioneer `3.2.0` was just released:
+- **Colossus: v4.0.1 release**
+    - Fix: Remove request timeout of 5min which was causing uploads of large files to fail
+
+- **Pioneer 3.3.0 was just released:**
     
-    Added
+    **Added**
     
-    - Role mention
+    - Show election tab during idle stage.
+
+- **Pioneer 3.3.1 was just released:**
     
-    Fixed
+    **Added**
     
-    - Proposals default order
+    - Show election tab during idle stage.
+    
+    **Changed**
+    
+    - Rename "Normal period" to "Idle stage".
 
 # **Short-Term Roadmap**
 
@@ -92,32 +101,33 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Upcoming Events**
 
-- DAO Daily Standup: Everyday From Monday-Friday at 9:30 am UTC
-- [Network Release Call](https://discord.gg/vNFNEj2G?event=1209186395692863509)
-- [Weekly Gleev/YPP Call](https://discord.gg/vNFNEj2G?event=1209078144636813342)
-- [Joystream Creators Roundtable](https://discord.gg/kFBn3KCE?event=1215204526102155304)
-- [Network Release Call](https://discord.gg/vNFNEj2G?event=1214520866864627763)
+- DAO Daily Standup: Monday-Friday at 9:30 am UTC
+- [31st Council Handover Meeting](https://discord.gg/RZyq7kKt?event=1217747727891435561)
+- [Network Release Call](https://discord.gg/RZyq7kKt?event=1211723087469478001)
+- [Weekly Gleev/YPP Call](https://discord.gg/RZyq7kKt?event=1211723090598305792)
+- [Weekly Marketing Call](https://discord.gg/RZyq7kKt?event=1215996657175367762)
+- [Network Release Call](https://discord.gg/PugXVPhJ?event=1214520870253494282)
+- [DAO Tech Working Group Alignment Call](https://discord.gg/PugXVPhJ?event=1212810233051615274)
+- [Friday Fireside Chat](https://discord.gg/PugXVPhJ?event=1219067779492085892)
 
 # **Recent Events**
 
-- DAO Daily Standup: Everyday From Monday-Friday
-- [Network Release Call](https://discord.gg/KwAzP5Cm?event=1206649708928573460)
-- [Weekly Gleev/YPP Call](https://discord.gg/KwAzP5Cm?event=1209078114173452309)
-- [DAO Tech Working Group Alignment Call](https://discord.gg/KwAzP5Cm?event=1209503483414192250)
-- [Joystream Integration to Changenow.io](https://changenow.io/?amount=1&from=eth&to=joy)
-- [Nara Network Announced](https://blog.joystream.org/announcing-nara/)
+- DAO Daily Standup: Monday-Friday at 9:30 am UTC
+- [Network Release Call](https://discord.gg/vNFNEj2G?event=1209186395692863509)
+- [Weekly Gleev/YPP Call](https://discord.gg/vNFNEj2G?event=1209078144636813342)
+- [Joystream Creators Roundtable](https://discord.gg/vNFNEj2G?event=1215204526102155304)
+- [Network Release Call](https://discord.gg/vNFNEj2G?event=1214520866864627763)
+- [Nara Network Launched](https://x.com/JoystreamDAO/status/1768258449127649326?s=20)
+- [Joystream Integrated to StealthEx](https://twitter.com/StealthEX_io/status/1768624964490461523)
+- [New Milestone: 160M JOY staked](https://x.com/JoystreamDAO/status/1768645002832585001?s=20)
 
 # **Forum**
 
 **Hot Topics**
 
-- [Creating a Social and content creator Discord](https://pioneerapp.xyz/#/forum/thread/872)
-- [Luxor release](https://pioneerapp.xyz/#/forum/thread/876)
-
-**Other Topics**
-
-- [Council Salary review - March 2024](https://pioneerapp.xyz/#/forum/thread/874)
-- [Infrastructure Cost Reduction](https://pioneerapp.xyz/#/forum/thread/877)
+- [Tomato Compensation Discussion v2](https://pioneerapp.xyz/#/forum/thread/878)
+- [Strategic role of Gleev for Joystream](https://pioneerapp.xyz/#/forum/thread/882)
+- [Verified Organization for JoystreamDAO X](https://pioneerapp.xyz/#/forum/thread/883)
 
 # **Open Positions**
 
@@ -130,20 +140,10 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Council Election**
 
-[Election round 31](https://pioneerapp.xyz/#/election)
+[Election Round 32](https://pioneerapp.xyz/#/election)
 
-- Stage: Voting Period
-- Candidates number: 4
-- List of Candidates:
-    1. Vikan
-    2. tomato
-    3. Dmtrmltsv
-    4. Jenny
-
-Total candidate locked:  688.88K $JOY (~$15.2K USD)
-Total votes:  34 votes /  33.4M $JOY (~$740.6K USD)
-Largest single vote:   12.5M $JOY (~$276.9K USD)
-Elected individual council salary: 83.3k $JOY (~$1.8k USD)
+- Stage: Idle Stage (8 Days 23hrs remaining)
+- Candidates number: 0
 
 ---
 
@@ -151,57 +151,42 @@ Elected individual council salary: 83.3k $JOY (~$1.8k USD)
 
 ### Passed
 
-- [Membership WG Budget Request - 150k](https://pioneerapp.xyz/#/proposals/preview/823)
-- [Council Term 30 Plan](https://pioneerapp.xyz/#/proposals/preview/824)
-- [Reduce Validator Count From 43>39](https://pioneerapp.xyz/#/proposals/preview/811)
-- [Update HRWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/831)
-- [Update SWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/830)
-- [Update DWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/829)
-- [Update CWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/827)
-- [Update BWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/826)
-- [Increment For CWG For Workers Debt T29](https://pioneerapp.xyz/#/proposals/preview/825)
-- [Update MWG Budget Term 30](https://pioneerapp.xyz/#/proposals/preview/828)
-- [Reimbursement For Reward To Validator](https://pioneerapp.xyz/#/proposals/preview/833)
-- [Attendance Policy For The DAO - V1](https://pioneerapp.xyz/#/proposals/preview/832)
+- [Faucet Funding - 250k](https://pioneerapp.xyz/#/proposals/preview/836)
+- [Upgrade Joystream To Nara Runtime](https://pioneerapp.xyz/#/proposals/preview/816)
 
 ### Deciding
 
-- [Faucet Funding - 250k](https://pioneerapp.xyz/#/proposals/preview/834)
-- [Upgrade Joystream To Nara Runtime](https://pioneerapp.xyz/#/proposals/preview/816)
-
-### **Gracing**
-
-- [Reduce Validator Count From 43>39](https://pioneerapp.xyz/#/proposals/preview/811)
-- [Upgrade Joystream To Nara Runtime](https://pioneerapp.xyz/#/proposals/preview/816)
+- [Terminate Dapplooker Services](https://pioneerapp.xyz/#/proposals/preview/839)
 
 # **Rockstars of The Week**
 
-**[Vladiccck](https://pioneerapp.xyz/#/members/6303)**
+This week, we're thrilled to shine a spotlight on the dedicated core team and everyone else behind the monumental efforts driving the Joystream Nara Network upgrade. Their relentless dedication and steadfast commitment have driven our progress, shaping the trajectory of our project with innovation and enthusiasm. 
 
-- Dedicated content creator on Joystream, part of VVK Studios team
-- Recently premiered exclusive short film on Gleev
-- Achieved top NFT selling status with movie NFT selling for 50,000 JOY
+- [Klaudiusz](https://pioneerapp.xyz/#/members/2233): Builders Working Group Lead
+- [Mohktar](https://pioneerapp.xyz/#/members/8): Co-founder JSG, Core Developer on Joystream
+- [Freakstatic](https://pioneerapp.xyz/#/members/306): Builders Working Group Deputy Lead and Developer
+- [Mr_Bovo](https://pioneerapp.xyz/#/members/36442): Builders Working Group Developer
+- [Thesan5119](https://pioneerapp.xyz/#/members/4404): Builders Working Group Developer
 
 # **Notable Content Creators**
 
-[El Corral de Jimmy](https://gleev.xyz/channel/57408)
+**[Fratt](https://gleev.xyz/channel/57998)**
 
-- Channel specializes in freestyle battles, captivating audiences with intense lyrical competitions.
-- Achieved Diamond Tier on Gleev YouTube Partner Program, showcasing exceptional performance and engagement.
-- Boasts a library of over 470 videos and has amassed over 225 million views, maintaining a loyal audience of over 1 million subscribers.
+- The channel explores various sensitivity configurations video games, often testing the limits and boundaries of what's possible.
+- Viewers can expect reviews and demonstrations of hacks and cheats, with warnings against their use.
+- Channel engages with trending topics and challenges within the gaming community, providing insights and commentary on new releases, updates, and strategies.
 
-[Historia Militar](https://gleev.xyz/channel/56830)
+**[AYBMgames](https://gleev.xyz/channel/58320)**
 
-- Exploration of various historical events and atrocities during World War II.
-- Coverage of significant moments, shedding light on lesser-known aspects of the war.
-- Insights into the lives of soldiers, guards, and leaders, as well as the aftermath of key events and the impact of war on different groups.
+- Channel provides detailed comparisons and analyses of various aspects of popular video games.
+- Viewers can expect engaging content ranging from game reviews, movie discussions, to gameplay strategies and tips.
+- Channel fosters community engagement through discussions on game-related topics, fostering interaction and feedback from viewers.
 
-[Aviación Militar](https://gleev.xyz/channel/56798)
+**[El Bar Del Vicio](https://gleev.xyz/channel/57777)**
 
-- Military Aviation Channel covering historical battles, current events, and global strategies.
-- Videos focus on aerial combat, tactics, and international conflicts, showcasing diverse air force capabilities.
-- Content includes country perspectives, historical events, and updates on military technology.
-
+- Channel primarily discusses various aspects of the gaming industry, including reviews, critiques, and discussions on video games.
+- Offers insights and opinions, potentially focusing on the gaming scene within Argentina and its unique challenges.
+- Provides a mix of content types, such as game reviews, industry news analysis, and commentary on gaming events like E3, ensuring a diverse viewing experience for audiences interested in gaming culture.
 # **Useful Links**
 
 ### **Official Channels**
