@@ -54,7 +54,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **5,358**
 - Weekly NFT Growth: **124**
-- Weekly NFT Growth, %: **2.37 %**
+- Weekly NFT Growth, %: **2.37%**
 - Weekly NFT sold: 3
 
 ![NFTs 331](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/6cdfa053-0eef-4421-a285-c05ac45bb748)
@@ -63,7 +63,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Membership Accounts: **55,894**
 - Weekly Membership Accounts Growth: **835**
-- Weekly Membership Accounts Growth, %: **1.52 %**
+- Weekly Membership Accounts Growth, %: **1.52%**
 
 ![membership 331](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/0f8a09ff-13cc-45a6-b19c-b7fe65ad8451)
 
