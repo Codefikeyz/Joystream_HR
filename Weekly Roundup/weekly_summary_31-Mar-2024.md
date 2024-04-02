@@ -137,7 +137,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Rockstars of The Week**
 
-[Brandon](https://pioneerapp.xyz/#/members/5923) ([Twitter](https://x.com/Bernacampu?s=20))
+[Brandon Duff](https://pioneerapp.xyz/#/members/5923) ([Twitter](https://x.com/MetaProfitsDAO?s=20))
 
 - A dedicated and dynamic creator, appointed as an ambassador on the Joystream platform.
 - Contributed valuable insights as a guest in the Joystream Creators roundtable.
