@@ -182,7 +182,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 ### **Information For Newcomers**
 
-- **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens) | [Become a Joystream Ambassador](https://blog.joystream.org/introducing-the-joystream-ambassador-program-phase-1/)
+- **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
 - **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
 
 # **Disclaimer**
