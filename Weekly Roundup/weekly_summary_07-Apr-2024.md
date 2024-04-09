@@ -54,7 +54,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **5,490**
 - Weekly NFT Growth: **132**
-- Weekly NFT Growth, %: **2.47 %**
+- Weekly NFT Growth, %: **2.47%**
 - Weekly NFT sold: 3
 
 ![nft 7](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/0b17da01-1166-4a22-8024-ea2049079e88)
@@ -63,10 +63,9 @@ Provided stats below are for non-empty channels only:
 
 - Total Membership Accounts: **56,540**
 - Weekly Membership Accounts Growth: **646**
-- Weekly Membership Accounts Growth, %: **1.16 %**
+- Weekly Membership Accounts Growth, %: **1.16%**
 
 ![membership 7](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/ef8244ed-6765-491b-b2fc-00e662c13383)
-
 
 # **YouTube Partner Program**
 
@@ -101,11 +100,14 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 **Hot Topics**
 
-- [Where to bridge to?](https://pioneerapp.xyz/#/forum/thread/889)
+- [Rewards for validators who identify](https://pioneerapp.xyz/#/forum/thread/894)
+- [Token locking behavior for votes during elections](https://pioneerapp.xyz/#/forum/thread/893)
+- [Standardized Budget Formulas Proposal](https://pioneerapp.xyz/#/forum/thread/892)
+- [Linking leads rewards to performance measured by market CAP](https://pioneerapp.xyz/#/forum/thread/891)
 
 **Other Topics**
 
-- [VCC For Web2 Services](https://pioneerapp.xyz/#/forum/thread/890)
+- [OTC Negotiation Team](https://pioneerapp.xyz/#/forum/thread/895)
 
 # **Open Positions**
 
@@ -119,8 +121,8 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 [Election Round 32](https://pioneerapp.xyz/#/election)
 
-- Stage: Announcing Stage (2 Days 19hrs remaining)
-- Candidates number: 2
+- Stage: Announcing Stage (9hrs remaining)
+- Candidates number: 7
 
 ---
 
@@ -141,18 +143,6 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Notable Content Creators**
 
-**[ErickDbz](https://gleev.xyz/channel/59771)**
-
-- Specializes in epic manga summaries encompassing romance, adventure, and fantasy genres.
-- Provides engaging content focusing on Manhwas and anime, delivering thrilling tales to its audience.
-- With around 104 videos, channel keeps it’s 145k subscribers engaged with over 6 million total views.
-
-**[Pro Nc](https://gleev.xyz/channel/59798)**
-
-- Channel features a diverse array of music videos and visualizers for various artists.
-- Offers a mix of genres including reggaeton, rap, and contemporary Christian music.
-- Produced by Pro Nc and Zero Seven, the channel showcases a range of collaborations and remixes.
-
 # **Useful Links**
 
 ### **Official Channels**
@@ -166,7 +156,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 ### **Information For Newcomers**
 
-- **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens) | [Become a Joystream Ambassador](https://blog.joystream.org/introducing-the-joystream-ambassador-program-phase-1/)
+- **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
 - **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
 
 # **Disclaimer**
