@@ -117,6 +117,10 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 - [Storage WG Worker (Waiting List)](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-36)
 - [Storage Clustering Solution Architect](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-39)
 
+# **Recent Recruitments**
+
+[Brandonduff](https://pioneerapp.xyz/#/members/5923) was hired as a creators community lead with the content working Group. Brandon will drive efforts to enhance engagement and support for creators within the Joystream DAO ecosystem. With a focus on optimizing communication channels and streamlining onboarding processes. His selection for this position stemmed from his exceptional expertise.
+
 # **Council Election**
 
 [Election Round 32](https://pioneerapp.xyz/#/election)
