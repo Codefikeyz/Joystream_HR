@@ -143,6 +143,18 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Notable Content Creators**
 
+[Barquito de Vapor](https://gleev.xyz/channel/60188)
+
+- Carpentry expertise showcased through diverse projects and tutorials.
+- Demonstrates various techniques and tools for woodworking enthusiasts.
+- Offers insights and analysis on viewer-submitted carpentry projects.
+
+[Anton Inozemtsev](https://gleev.xyz/channel/60217)
+
+- Insightful discussions on relationships, seduction, and personal growth.
+- Practical advice and strategies for improving communication and confidence.
+- Interviews, analyses, and real-life examples addressing various aspects of dating and relationships.
+
 # **Useful Links**
 
 ### **Official Channels**
