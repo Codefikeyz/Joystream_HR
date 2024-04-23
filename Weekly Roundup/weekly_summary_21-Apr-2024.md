@@ -189,13 +189,13 @@ And to all those whose contributions helped make this feature a success, even if
 - Various activities showcased include gaming sessions, character-centric parodies, and interactions with followers while playing Fortnite and VRChat.
 - Content ranges from playing popular games to humorous skits, often incorporating elements of the Dragon Ball universe and fan engagement.
 
-[حامد سوستا hamed sosta](https://gleev.xyz/channel/61234)
+[Hamed Sosta](https://gleev.xyz/channel/61234)
 
 - Channel showcases various pranks, challenges, and interactions with friends and family.
 - Content spans a range of topics, from relationship pranks to social experiments and travel vlogs, aimed at entertaining viewers with comedic and relatable content.
 - Videos include elaborate pranks, candid reactions, and social experiments, often involving family members and close friends.
 
-**[JoseliTops](https://gleev.xyz/channel/61431)**
+[JoseliTops](https://gleev.xyz/channel/61431)
 
 - The channel delves into captivating details and trivia concerning characters and aspects of animated series.
 - Its videos encompass diverse subjects such as character profiles, analyses of voice actors, and explorations into the show's universe.
