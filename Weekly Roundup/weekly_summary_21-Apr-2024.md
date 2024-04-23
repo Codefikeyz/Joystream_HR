@@ -161,6 +161,8 @@ We want to extend our heartfelt appreciation to all those who dedicated their ti
 
 **Bedeho -** Co-Founder JSgenesis
 
+**Mokhtar** - Co-Founder/Developer
+
 **WRadoslaw -** Developer
 
 **Mrkubu. -** Designer
@@ -174,8 +176,6 @@ We want to extend our heartfelt appreciation to all those who dedicated their ti
 **Thesan5119** - Developer
 
 **Attemka** - Developer
-
-**Mokhtar** - Developer
 
 **Dmtrmltsv -** Content Lead
 
