@@ -61,7 +61,7 @@ Provided stats below are for non-empty channels only:
 
 - Total NFT: **5,839**
 - Weekly NFT Growth: **29**
-- Weekly NFT Growth, %: **0.5 %**
+- Weekly NFT Growth, %: **0.5%**
 - Weekly NFT sold: 0
 
 ![19th may nft](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/25b87441-1d64-4995-a8a4-83bd7e733106)
