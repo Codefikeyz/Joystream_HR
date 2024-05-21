@@ -53,7 +53,7 @@ Provided stats below are for non-empty channels only:
 
 - Total Storage Used: **96,915.515 GB**
 - Weekly Storage Used Growth: **871.45 GB**
-- Weekly Storage Used Growth, %: **99.09%**
+- Weekly Storage Used Growth, %: **0.91%**
 
 ![19th may media](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/bbf6f1ac-5eae-4c36-9f2e-b35832e84397)
 
