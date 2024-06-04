@@ -152,9 +152,7 @@ List of Candidates winning:
 - Unrevealed votes: 108 votes / ~53.29M $JOY (~$634.96K USD)
 - Revealed / unrevealed: 38.51% /61.49%
 - Largest single vote: 13m $JOY (~$154.8K USD)
-- Elected individual council salary: ~155.56k $JOY (~$1.83K USD)
-
----
+- Elected individual council salary: 155.56k $JOY (~$1.83K USD)
 
 # Proposals
 
