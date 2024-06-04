@@ -178,6 +178,12 @@ A huge shout-out to all the creators who participated as panelists in the [recen
 
 # **Notable Content Creators**
 
+[**LuLYeah**](https://gleev.xyz/channel/62730)
+
+- Channel delves into intriguing mysteries and theories from popular shows like “The Simpsons,” SpongeBob SquarePants, and Adventure Time
+- Channel also covers video game mysteries, such as the enigmatic “CROW 64” and the true identity of the player.
+- Content connects seemingly unrelated universes, revealing surprising links between movies like “Titanic” and “Terminator.”
+
 # **Useful Links**
 
 ### **Official Channels**
