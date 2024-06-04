@@ -144,8 +144,6 @@ List of Candidates winning:
 5. 0x2bc
 6. Codefikeyz
 
----
-
 - Total candidate stakes locked: ~1.0M $JOY (~$11.96K USD)
 - Total votes: 139 votes / 86.66M $JOY (~$1.03M USD)
 - Revealed votes: 31 vote / 33.37M $JOY (~$397.6K USD)
