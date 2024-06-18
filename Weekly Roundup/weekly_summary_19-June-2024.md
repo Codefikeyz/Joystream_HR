@@ -19,7 +19,7 @@
 15. [**Useful Links**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#useful-links)
 16. [**Disclaimer**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#disclaimer)
 
-# **Period**
+# **Reporting Period**
 
 **09 June 2024 - 16 June 2024**
 
@@ -47,7 +47,7 @@ DAO Spending:
 - Validator rewards: **298,593 JOY**
 - Fees and token burn: **(24,846.925) JOY**
 
-# **Content**
+# **Content Overview**
 
 ### Videos
 
