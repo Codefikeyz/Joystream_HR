@@ -2,22 +2,22 @@
 
 ## Table of Contents
 
-1. [**Period**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-2. [**Tokenomics**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-3. [**Content**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-4. [**Membership**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-5. [**YouTube Partner Program**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-6. [**Short-Term Roadmap**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-7. [**Upcoming Events**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-8. [**Recent Events**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-9. [**Forum**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-10. [**Open Positions**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-11. [**Council Election**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-12. [**Proposals**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-13. [**Rockstars of The Week**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-14. [**Notable Content Creators**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-15. [**Useful Links**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
-16. [**Disclaimer**](https://www.notion.so/Weekly-Roundup-45-0f47dd3672f4435098f62fd0132b2f21?pvs=21)
+1. [**Period**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#period)
+2. [**Tokenomics**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#tokenomics)
+3. [**Content**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#content)
+4. [**Membership**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#membership)
+5. [**YouTube Partner Program**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#youtube-partner-program)
+6. [**Short-Term Roadmap**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#short-term-roadmap)
+7. [**Upcoming Events**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#upcoming-events)
+8. [**Recent Events**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#recent-events)
+9. [**Forum**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#forum)
+10. [**Open Positions**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#open-positions)
+11. [**Council Election**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#council-election)
+12. [**Proposals**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#proposals)
+13. [**Rockstars of The Week**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#rockstars-of-the-week)
+14. [**Notable Content Creators**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#notable-content-creators)
+15. [**Useful Links**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#useful-links)
+16. [**Disclaimer**](https://github.com/Codefikeyz/Joystream_HR/blob/main/Weekly%20Roundup/weekly_summary_19-June-2024.md#disclaimer)
 
 # **Period**
 
