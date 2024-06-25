@@ -44,7 +44,7 @@ DAO Spending:
 - Council rewards: **233,333.333 JOY**
 - WG spent: **243,260.375 JOY**
 - Funding proposals: **0 JOY**
-- Creator payout: **0 JOY**
+- Creator payout: **126,478 JOY**
 - Validator rewards: **298,283 JOY**
 - Fees and token burn: **(43,899.489) JOY**
 
@@ -161,7 +161,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 # **Short-Term Roadmap**
 
 - **Q2 2024 OKRs - V1** https://pioneerapp.xyz/#/proposals/preview/900
-- **Roadmap** https://www.joystream.org/roadmap?filename=2024 v3#head
+- **Roadmap** https://www.joystream.org/roadmap?filename=2024v3#head
 
 # **Rockstars of The Week**
 
