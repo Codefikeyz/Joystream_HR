@@ -150,7 +150,7 @@ Provided stats below are for non-empty channels only:
 Pioneer 3.7.0 was just released:
 
 - Added
-Update Argo bridge constraints proposal.
+    - Update Argo bridge constraints proposal.
 
 # **YouTube Partner Program**
 
