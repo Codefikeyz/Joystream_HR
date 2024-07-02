@@ -65,6 +65,13 @@ Provided stats below are for non-empty channels only:
 
 ![30 nft](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/c6d417cc-5463-4a45-a537-4e6d1d6546a3)
 
+### Creator tokens
+
+- Total market cap: **1,007,476.085 JOY**
+- Weekly cumulative trading volume: **20,651.886 JOY**
+- Newly issued: **17**
+- Total revenue shares amount: **263,964.892 JOY**
+
 # **Membership**
 
 - Total Membership Accounts: **62,788**
