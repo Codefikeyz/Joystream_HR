@@ -72,6 +72,8 @@ Provided stats below are for non-empty channels only:
 - Newly issued: **17**
 - Total revenue shares amount: **263,964.892 JOY**
 
+![30 CRT](https://github.com/Codefikeyz/Joystream_HR/assets/123887455/f767a68d-8d34-4984-bc97-8a79e95b135e)
+
 # **Membership**
 
 - Total Membership Accounts: **62,788**
