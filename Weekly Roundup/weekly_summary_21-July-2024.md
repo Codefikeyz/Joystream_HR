@@ -7,23 +7,24 @@
 
 # Tokenomics
 
-| Metric | Value |
-| --- | --- |
-| Total Supply | 1,075,175,290.255 JOY |
-| JOY Inflation (Past 12 Months) | 5.395% |
-| Circulating Supply | 938,275,649 JOY |
-| Weekly Tokens Minted | 1,386,476.144 JOY |
+- Total Supply: 1,075,175,290.255 JOY
+- JOY Inflation (Past 12 Months): 5.395%
+- Circulating Supply: 938,275,649 JOY
+- Weekly Tokens Minted: 1,386,476.144 JOY
 
-| DAO Spending |  |
-| --- | --- |
-| Start Issuance | 1,073,788,814.111 JOY |
-| End Issuance | 1,075,175,290.255 JOY |
-| Council Rewards | 233,333.333 JOY |
-| WG Spent | 386,859.439 JOY |
-| Funding Proposals | 499,998 JOY |
-| Creator Payout | 0 JOY |
-| Validator Rewards | 299,948 JOY |
-| Fees and Token Burn | (33,662.627) JOY |
+DAO Spending:
+
+- Start Issuance: 1,073,788,814.111 JOY
+- End Issuance: 1,075,175,290.255 JOY
+
+*Including:*
+
+- Council Rewards: 233,333.333 JOY
+- WG Spent: 386,859.439 JOY
+- Funding Proposals: 499,998 JOY
+- Creator Payout: 0 JOY
+- Validator Rewards: 299,948 JOY
+- Fees and Token Burn: (33,662.627) JOY
 
 # **Content Overview**
 
