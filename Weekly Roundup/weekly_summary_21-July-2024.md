@@ -6,7 +6,6 @@
 - End Block: 8,470,849
 
 # Tokenomics
-
 - Total Supply: 1,075,175,290.255 JOY
 - JOY Inflation (Past 12 Months): 5.395%
 - Circulating Supply: 938,275,649 JOY
