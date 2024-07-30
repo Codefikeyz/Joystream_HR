@@ -128,7 +128,7 @@ Provided stats below are for non-empty channels only:
     - [leetjoy](https://pioneerapp.xyz/#/members/957)
     - [0x2bc](https://pioneerapp.xyz/#/election?candidate=00000062)
     - [Jenny](https://pioneerapp.xyz/#/members/3234)
-    - [Realdonaldtrump](https://pioneerapp.xyz/#/election?candidate=00000064)
+    - [realDonaldTrump](https://pioneerapp.xyz/#/election?candidate=00000064)
 
 # **YouTube Partner Program**
 
@@ -143,7 +143,7 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 
 # **Notable Content Creators**
 
-[Clem NFT](https://gleev.xyz/channel/64721)
+[**Clem NFT**](https://gleev.xyz/channel/64721)
 
 - Reviews and earning guides for new and popular NFT games.
 - Coverage of airdrop opportunities and updates on game features.
