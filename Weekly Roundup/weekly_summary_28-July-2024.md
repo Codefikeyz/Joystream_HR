@@ -90,7 +90,7 @@ Provided stats below are for non-empty channels only:
 
 - **DAO Daily Standup:** Everyday from Monday to Friday at 10:30 am CEST in our [Discord Voice 1 channel](https://discord.gg/NaNzysB5YZ)—catch up on daily updates and sync with the team.
 - **Weekly Marketing Call**: Updates on the ambassador program, outreach, OKRs, CMC campaign, Twitter verification and more. Catch up via the meeting [note here](https://www.notion.so/a12cd2f95fdf4f8da556fd7abaaf289b?pvs=21).
-- [Argo Bridge Call](https://www.notion.so/3704f5b224e84bebb8e58f32b51bf854?pvs=21) - The meeting covered Argo bridge testing, challenges, launcj date and more.
+- [Argo Bridge Call](https://www.notion.so/3704f5b224e84bebb8e58f32b51bf854?pvs=21) - The meeting covered Argo bridge testing, challenges, launch date and more.
 
 # Forum
 
