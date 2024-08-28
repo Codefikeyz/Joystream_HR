@@ -96,7 +96,7 @@ Provided stats below are for non-empty channels only:
 [Election round](https://pioneerapp.xyz/#/election) 37
 
 - Stage: Revealing period (1 day left)
-- Candidates number:
+- Candidates number: 5
     - [Jenny](https://pioneerapp.xyz/#/members/3234)
     - [l1dev](https://pioneerapp.xyz/#/members/515)
     - [Klaudiusz](https://pioneerapp.xyz/#/election?candidate=00000068)
