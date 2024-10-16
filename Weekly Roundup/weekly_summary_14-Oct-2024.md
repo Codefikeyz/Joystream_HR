@@ -128,8 +128,6 @@ Build a foundation for your Gleev channel with syncing YouTube content and tap i
 - **Q3 2024 OKRs - V1** https://pioneerapp.xyz/#/proposals/preview/934
 - **Roadmap** [https://www.joystream.org/roadmap?filename=2024-2025v5](https://www.joystream.org/roadmap?filename=2024-2025%20v5)
 
-# **Notable Content Creators**
-
 # **Useful Links**
 
 ### **Official Channels**
