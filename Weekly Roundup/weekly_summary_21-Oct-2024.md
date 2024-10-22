@@ -10,7 +10,7 @@
 - Total supply: **1,086,129,006.465 JOY**
 - JOY inflation (past 12 months): **5.655%**
 - Circulating supply: **985,872,278 JOY**
-- Weekly Tokens Minted: **717,405.462 JOYz**
+- Weekly Tokens Minted: **717,405.462 JOY**
 
 DAO Spending:
 
