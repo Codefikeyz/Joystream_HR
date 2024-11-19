@@ -1,105 +1,112 @@
-![11 nov](https://github.com/user-attachments/assets/97902cc3-25c6-4a1c-a68e-ebd0a22a6885)
+![18 nov](https://github.com/user-attachments/assets/1b920d39-1ef7-4252-b7b4-60472d0b62ae)
 
-**04 November 2024 - 11 November 2024**
+**11 November 2024 - 18 November 2024**
 
-- Start Block: 9,982,865
-- End Block: 10,083,665
+- Start Block: 10,083,666
+- End Block: 10,184,466
 
 # Tokenomics
 
-- Total supply: **1,087,303,675.281 JOY**
+- Total supply: **1,087,845,379.137 JOY**
 - JOY inflation (past 12 months): **5.646%**
-- Circulating supply: **991,408,038 JOY**
-- Weekly Tokens Minted: **765,039.037 JOY**
+- Circulating supply: **993,576,314 JOY**
+- Weekly Tokens Minted: **541,703.856 JOY**
 
 DAO Spending:
 
-- Start Issuance: **1,086,538,636.244 JOY**
-- End Issuance: **1,087,303,675.281 JOY**
+- Start Issuance: **1,087,303,675.281 JOY**
+- End Issuance: **1,087,845,379.137 JOY**
 
 *including:*
 
 - Council rewards: **233,333.333 JOY**
-- WG spent: **337,779.527 JOY**
+- WG spent: **141,797.383 JOY**
 - Funding proposals: **0 JOY**
 - Creator payout: **0 JOY**
-- Validator rewards: **297,599 JOY**
-- Fees and token burn: **(103,672.823) JOY**
+- Validator rewards: **296,924 JOY**
+- Fees and token burn: **(153,243.906) JOY**
 
 # **Content**
 
 ### Videos
 
-- Total Videos, qty: **1,425,380**
-- Weekly Videos Growth, qty: **126**
-- Weekly Videos Growth, %: **0.01%**
+- Total Videos, qty: **1,426,994**
+- Weekly Videos Growth, qty: **1,615**
+- Weekly Videos Growth, %: **0.12%**
 
-![videos 140](https://github.com/user-attachments/assets/1fe4b81c-ed7a-4f67-a9ef-6589fe0c723f)
+![videos 18](https://github.com/user-attachments/assets/d8bdb816-dbfb-4953-a77c-6e116c34ff8a)
 
 ### Channels
 
 Provided stats below are for non-empty channels only:
 
-- Total Channels, qty: **29,973**
-- Weekly Channels Growth, qty: **50**
-- Weekly Channels Growth, **0.17%**
+- Total Channels, qty: **30,001**
+- Weekly Channels Growth, qty: **24**
+- Weekly Channels Growth, **0.09%**
 
-![channels 140](https://github.com/user-attachments/assets/1b737375-6ddd-48b7-8849-56bf684b3f83)
+![channels 18](https://github.com/user-attachments/assets/5b353d76-fc21-4b3e-82c7-061f722103e0)
 
 ### Media Storage
 
-- Total Storage Used: **107,376.239 GB**
-- Weekly Storage Used Growth: **28.223 GB**
-- Weekly Storage Used Growth, %: **0.03%**
+- Total Storage Used: **107,553.145 GB**
+- Weekly Storage Used Growth: **178.154 GB**
+- Weekly Storage Used Growth, %: **0.17%**
 
-![media 140](https://github.com/user-attachments/assets/17467f01-4392-4630-a383-e288e85b5336)
+![media 18](https://github.com/user-attachments/assets/ffc1f25e-0c12-475e-904f-8c5f068ba620)
 
 ### Video NFTs
 
-- Total NFT: **6,537**
+- Total NFT: **6,543**
 - Weekly NFT Growth: **6**
 - Weekly NFT Growth, %: **0.1%**
 - Weekly NFT sold: 0
 
-![nft 140](https://github.com/user-attachments/assets/23ad22bc-af9d-465a-b324-defa40a571a2)
+![nft 18](https://github.com/user-attachments/assets/1a9c909f-b1df-46db-a236-1d0d72c62ac1)
 
 ### Creator tokens
 
-- Total market cap: **1,607,811.372 JOY**
-- Weekly cumulative trading volume: **50,865.635 JOY**
-- Newly issued: **9**
-- Total revenue shares amount: **374,096.53 JOY**
+- Total market cap: **1,609,369.619 JOY**
+- Weekly cumulative trading volume: **2,839.131 JOY**
+- Newly issued: **4**
+- Total revenue shares amount: **375,518.95 JOY**
 
 # **Membership**
 
-- Total Membership Accounts: **65,965**
-- Weekly Membership Accounts Growth: **240**
-- Weekly Membership Accounts Growth, %: **0.37%**
+- Total Membership Accounts: **66,070**
+- Weekly Membership Accounts Growth: **105**
+- Weekly Membership Accounts Growth, %: **0.16%**
 
-![member 140](https://github.com/user-attachments/assets/504c4ca7-c338-4ddd-944f-6ded403e40d0)
+![membership 18](https://github.com/user-attachments/assets/513164f4-5f36-4352-90db-edf80d236094)
 
 # **Upcoming Events**
 
 - DAO Daily Standup: Everyday From Monday-Friday at 9:30 am CET
-- [Weekly Marketing Call](https://discord.gg/NYrsa9Mg?event=1298203754419589122)
 
 # **Recent Events**
 
 - **DAO Daily Standup:** Everyday from Monday to Friday at 9:30 am CET in our [Discord Voice 1 channel](https://discord.gg/NaNzysB5YZ)—catch up on daily updates and sync with the team.
-- New Milestone: [Block #10,000,000](https://joystream.subscan.io/block/10000000) was finalized on November 5, 2024 - 09:20:54 (UTC)
+
+# Forum
+
+- [Will we mint 15% supply for Binance Listing?](https://pioneerapp.xyz/#/forum/thread/1002)
 
 # **Council Election**
 
 [Election round 40](https://pioneerapp.xyz/#/election)
 
-- Stage: Announcement period
+- Stage: Revealing period
+- Candidates - 4
+    - [Marat_mu](https://pioneerapp.xyz/#/members/2154)
+    - [l1dev](https://pioneerapp.xyz/#/members/515)
+    - [leet_joy](https://pioneerapp.xyz/#/members/957)
+    - [0x2bc](https://pioneerapp.xyz/#/members/2098)
 
 # Proposals
 
 ### Passed
 
-- [SWG Budget Refill](https://pioneerapp.xyz/#/proposals/preview/1035)
 - [Refiil HR budget](https://pioneerapp.xyz/#/proposals/preview/1036)
+- [SAFE: Spending Request - CDN NOV 2024](https://pioneerapp.xyz/#/proposals/preview/1037)
 
 # **Short-Term Roadmap**
 
