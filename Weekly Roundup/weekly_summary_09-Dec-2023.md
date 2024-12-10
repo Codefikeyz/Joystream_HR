@@ -1,236 +1,144 @@
-# Weekly Roundup #18
+![9 december](https://github.com/user-attachments/assets/d339b25a-9bc2-4c1f-9c0e-24d5999a55ee)
 
-![https://i.imgur.com/8gIpunp.png](https://i.imgur.com/8gIpunp.png)
+**02 December 2024 - 09 December 2024**
 
-### **Period**
-
-**02 December 2023 - 09 December 2023**
-
-- Start Block: 5,144,417
-- End Block: 5,245,217
+- Start Block: 10,386,069
+- End Block: 10,486,869
 
 # Tokenomics
 
-- Total supply: **1,038,519,686 JOY**
-- JOY inflation (since mainnet launch): **3.86%**
-- Circulating supply:  **761,299,209 JOY**
-- Weekly Tokens Minted: **8,714,895 JOY**
-- Weekly Tokens Burned: **(9,936,815) JOY**
+- Total supply: **1,086,648,699.818 JOY**
+- JOY inflation (past 12 months): **5.95%**
+- Circulating supply: **1,060,260,027 JOY**
+- Weekly Tokens Minted: **624,863.046 JOY**
 
 DAO Spending:
 
-- Start Issuance: **1,039,741,606 JOY**
-- End Issuance: **1,038,519,686 JOY**
-- Total minted (net): **8,714,895 JOY**
+- Start Issuance: **1,087,273,562.864 JOY**
+- End Issuance: **1,086,648,699.818 JOY**
 
 *including:*
 
-- Council rewards: **116,655 JOY**
-- WG spent: **8,341,829 JOY**
-- Funding proposals: **0 JOY**
-- Creator payout: **9,500 JOY**
-- Validator rewards: **246,911 JOY**
-- Fees and token burn: **(9,936,815) JOY**
+- Council rewards: **233,333.333 JOY**
+- WG spent: **3,049,847.449 JOY**
+- Funding proposals: **151,209 JOY**
+- Creator payout: **0 JOY**
+- Validator rewards: **280,300 JOY**
+- Fees and token burn: **(4,339,552.828) JOY**
 
 # **Content**
 
 ### Videos
 
-- Total Videos, qty: **672,796**
-- Weekly Videos Growth, qty: **34,103**
-- Weekly Videos Growth, %: **5.34%**
+- Total Videos, qty: **1,483,133**
+- Weekly Videos Growth, qty: **23,338**
+- Weekly Videos Growth, %: **1.6%**
 
-![https://i.imgur.com/KziH00f.png](https://i.imgur.com/KziH00f.png)
+![videos 9](https://github.com/user-attachments/assets/382a4e3d-d7b5-42de-b9db-7d535060e16e)
 
 ### Channels
 
 Provided stats below are for non-empty channels only:
 
-- Total Channels, qty:  **16,354**
-- Weekly Channels Growth, qty: **560**
-- Weekly Channels Growth, **3.55%**
+- Total Channels, qty: **30,085**
+- Weekly Channels Growth, qty: **27**
+- Weekly Channels Growth, **0.09%**
 
-![https://i.imgur.com/i5dRbTa.png](https://i.imgur.com/i5dRbTa.png)
+![channels 9](https://github.com/user-attachments/assets/065a30e1-97b5-4571-bd63-e2f0c4d75a60)
 
 ### Media Storage
 
-- Total Storage Used: **47,883.6 GB**
-- Weekly Storage Used Growth: **2,033.94 GB**
-- Weekly Storage Used Growth, %: **5%**
+- Total Storage Used: **113,072.43 GB**
+- Weekly Storage Used Growth: **2,168.168 GB**
+- Weekly Storage Used Growth, %: **1.96%**
 
-![https://i.imgur.com/IelTRqI.png](https://i.imgur.com/IelTRqI.png)
+![storage 9](https://github.com/user-attachments/assets/02a31ea2-1148-4318-9439-08b37f0b6457)
 
 ### Video NFTs
 
-- Total NFT: **4,066**
-- Weekly NFT Growth: **145**
-- Weekly NFT Growth, %: **3.7 %**
-- Weekly NFT sold: 12
+- Total NFT: **6,565**
+- Weekly NFT Growth: **18**
+- Weekly NFT Growth, %: **0.28%**
+- Weekly NFT sold: 0
 
-![https://i.imgur.com/f7ZrhM1.png](https://i.imgur.com/f7ZrhM1.png)
+![nfts 9](https://github.com/user-attachments/assets/96532dca-04f5-4ad0-888d-1828c84eaa1f)
+
+### Creator tokens
+
+- Total market cap: **1,610,313.226 JOY**
+- Weekly cumulative trading volume: **0 JOY**
+- Newly issued: **4**
+- Total revenue shares amount: **379,645.9 JOY**
 
 # **Membership**
 
-- Total Membership Accounts: **38,578**
-- Weekly Membership Accounts Growth: **1,041**
-- Weekly Membership Accounts Growth, %: **2.78 %**
+- Total Membership Accounts: **66,282**
+- Weekly Membership Accounts Growth: **79**
+- Weekly Membership Accounts Growth, %: **0.12%**
 
-![https://i.imgur.com/i7aNsWk.png](https://i.imgur.com/i7aNsWk.png)
+![members 9](https://github.com/user-attachments/assets/a6d5a993-19bf-4043-8653-54a53256840d)
 
-# YouTube Partner Program
+# **Upcoming Events**
 
-The Gleev YouTube Partner Program continues to thrive, demonstrating its robustness with recent updates that have significantly enhanced the overall experience for content creators. Notably, the program has introduced a noteworthy improvement by doubling the rewards for Synced videos. This enhancement not only serves as an incentive for creators but also underscores Gleev's commitment to and rewarding the efforts of its users. As a result of these updates, the Gleev YouTube Partner Program stands as a more appealing and rewarding platform for content creators looking to engage and grow their audiences.
+- DAO Daily Standup: Everyday From Monday-Friday at 9:30 am CET
 
-[➡️ Join YPP](https://gleev.xyz/ypp)
+# **Recent Events**
 
-# **Product Releases**
-
-- [Youtube-synch `v3.3.0` was released last week](https://github.com/Joystream/youtube-synch/releases/tag/v3.3.0)
-- [Atlas and Gleev were updated to `v4.14.2`.](https://github.com/Joystream/atlas/releases/tag/v4.14.0)
-- [Storage Node `v3.9.0`  released](https://github.com/Joystream/joystream/blob/master/storage-node/CHANGELOG.md#390)
-- [Atlas and Gleev were updated to `v4.14.3`.](https://github.com/Joystream/atlas/releases/tag/v4.14.3)
-- Pioneer 2.1.0 was just released
-    
-    Added
-    
-    - Display error messages when a page or a modal crashes instead of crashing the whole app.
-    - Make some members social links clickable.
-    
-    Fixed
-    
-    - Runtime upgrade proposal creation.
-    - Various UI bugs on responsive devices.
-    
-    Changed
-    
-    - Expand the size of the Signal side pane.
-    - Rename Twitter to X.
-
-# Short-Term Roadmap
-
-- **Q4 OKRs** [https://pioneerapp.xyz/#/proposals/preview/552](https://pioneerapp.xyz/#/proposals/preview/552)
-- **Roadmap** [https://pioneerapp.xyz/#/proposals/preview/621](https://pioneerapp.xyz/#/proposals/preview/621)
-
-# Upcoming Events
-
-- DAO Daily Standup: Everyday From Monday-Friday at 9:30 am UTC
-- [Network Release Call](https://discord.gg/joystream-811216481340751934?event=1167691731001679984)
-- [Council Roundtable Meeting With  Builders WG](https://discord.gg/maYfWCZu?event=1182314966884290581)
-- [HR X Gleev Workshop On Creators Support Improvement](https://discord.gg/maYfWCZu?event=1182933548064313364)
-- [Council Roundtable Meeting with Content WG](https://discord.com/events/811216481340751934/1183553691446423572)
-- [Network Release Call](https://discord.gg/sX6MN8Hd?event=1167691417984962592)
-- [Weekly GLEEV/YPP call](https://discord.gg/maYfWCZu?event=1178675061381664880)
-
-# Recent Events
-
-- DAO Daily Standup: Everyday From Monday-Friday
-- [Network Release Call](https://discord.gg/8hZQuPeJ?event=1167690476695060531)
-- [Network Release Call](https://discord.gg/8hZQuPeJ?event=1167690925078757467)
-- [Weekly GLEEV/YPP call](https://discord.gg/gfTqYgs5?event=1178674696473034852)
-- 24th Council Midterm Meeting
+- **DAO Daily Standup:** Everyday from Monday to Friday at 9:30 am CET in our [Discord Voice 1 channel](https://discord.gg/NaNzysB5YZ)—catch up on daily updates and sync with the team.
 
 # Forum
 
-**Hot Topics**
+- [**Giggle Academy Collaboration**](https://pioneerapp.xyz/#/forum/thread/1005)
+- [Migrate Daily Stand Up Meeting from Discord to X Space](https://pioneerapp.xyz/#/forum/thread/1006)
 
-- [December 2023 Burning](https://pioneerapp.xyz/#/forum/thread/736)
-- [Improving JoystreamDAO Builders Scope](https://pioneerapp.xyz/#/forum/thread/735)
-- [pre-proposal: Discretionary community building fund - V1](https://pioneerapp.xyz/#/forum/thread/734)
-- [Forward Together: Council and Working Groups Meetup](https://pioneerapp.xyz/#/forum/thread/733)
-- [Standup Meeting: New Format](https://pioneerapp.xyz/#/forum/thread/737)
+# **Council Election**
 
-**Other Topics**
+[Election round 41](https://pioneerapp.xyz/#/election)
 
-- [Council Term 24](https://pioneerapp.xyz/#/forum/thread/731)
-- [Storage Tools](https://pioneerapp.xyz/#/forum/thread/732)
-
-# **Open Positions**
-
-- [Gateway Operator](https://pioneerapp.xyz/#/working-groups/openings/appWorkingGroup-3)
-- [DWG Operator (Waiting List)](https://pioneerapp.xyz/#/working-groups/openings/distributionWorkingGroup-18)
-- [Video Production Designer](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupGamma-14)
-- [Storage WG Worker Needed](https://pioneerapp.xyz/#/working-groups/openings/storageWorkingGroup-27)
-- [Joystream Dev](https://pioneerapp.xyz/#/working-groups/openings/operationsWorkingGroupAlpha-34)
-
-# Council Election
-
-[Election round 25](https://pioneerapp.xyz/#/election)
-
-- Election stage: Voting Period
-- Candidates number: 7
+- Stage: Announcing period
 
 # Proposals
 
 ### Passed
 
-- [MWG Term 24 Budget Update](https://pioneerapp.xyz/#/proposals/preview/666)
-- [Update Forum Group Budget](https://pioneerapp.xyz/#/proposals/preview/671)
-- [Fill CWG Term 24 Budget](https://pioneerapp.xyz/#/proposals/preview/668)
-- [Refill HR WG Budget For Term 24](https://pioneerapp.xyz/#/proposals/preview/672)
-- [Council Plan Term 24](https://pioneerapp.xyz/#/proposals/preview/673)
-- [Update SWG Budget](https://pioneerapp.xyz/#/proposals/preview/675)
-- [BWG Term 24 Budget V2](https://pioneerapp.xyz/#/proposals/preview/676)
-- [Dismissal Of The BWG Lead](https://pioneerapp.xyz/#/proposals/preview/674)
-- [Reducing Council Budget: Burn 10M Joy](https://pioneerapp.xyz/#/proposals/preview/678)
-- [Burn 10m JOY (Trx 1)](https://pioneerapp.xyz/#/proposals/preview/679)
-- [Burn 10m JOY (Trx 2)](https://pioneerapp.xyz/#/proposals/preview/680)
+- [Refill HR WG Budget](https://pioneerapp.xyz/#/proposals/preview/1052)
+- [YPP Rewards For Period 09.01 - 25.11](https://pioneerapp.xyz/#/proposals/preview/1048)
+- [Uniswap LP Funding Request (3M JOY)](https://pioneerapp.xyz/#/proposals/preview/1050)
+- [SAFE Funding: Placing Orders on CEX](https://pioneerapp.xyz/#/proposals/preview/1054)
 
-# Rockstars of The Week
+### Rejected
 
-[Ilich](https://pioneerapp.xyz/#/members/2194) 
+- [**Burn Council salary if proposal expires**](https://pioneerapp.xyz/#/proposals/preview/1055)
 
-- Founding member of the Joystream DAO
-- Contributed to the project during Testnet phase
-- Recently joined the Storage Working Group, contributing as a storage provider
+### Expired
 
-[Mr_bovo](https://pioneerapp.xyz/#/members/4133)
+- [Migrate Meeting from Discord to X Space](https://pioneerapp.xyz/#/proposals/preview/1053)
 
-- Active contributor in Testnet and Mainnet phases
-- Joystream runtime developer and Orion maintainer
-- Founding member and new storage provider in DAO Storage Working Group
+### Cancelled
 
-[Sieemma](https://pioneerapp.xyz/#/members/458) ([Twitter](https://twitter.com/@SieCrypto))
+- [**Refill HR WG Budget**](https://pioneerapp.xyz/#/proposals/preview/1051)
+- [**Refill HR WG Budget**](https://pioneerapp.xyz/#/proposals/preview/1049)
 
-- Notable founding member and contributor to Joystream DAO
-- A validator, Distributor node and Storage provider in the Joystream network
-- Actively involved and recently assisted a fellow DAO member in setting up a validator node
+# **Short-Term Roadmap**
 
-# Notable Content Creators
+- **Roadmap** [https://www.joystream.org/roadmap?filename=2024-2025v5](https://www.joystream.org/roadmap?filename=2024-2025%20v5)
 
-**[LIFTT CAPITAL](https://gleev.xyz/channel/48392)**
+# **Useful Links**
 
-- An educational and informative platform with over 22k Subscribers
-- Dedicated to providing up-to-date insights on the latest developments in the world of cryptocurrencies.
-- Aims to keep the audience informed and knowledgeable about the ever-evolving landscape of Crypto news.
+### **Official Channels**
 
-**[0xLSD](https://gleev.xyz/channel/48641)**
+[Joystream Website](https://www.joystream.org/) | [Medium](https://blog.joystream.org/) | [Twitter](https://twitter.com/JoystreamDAO/) | [GitHub](https://github.com/Joystream) | [Discord](https://discord.com/invite/DE9UN3YpRP) | [Reddit](https://www.reddit.com/r/joystream_dao/) | [YouTube](https://www.youtube.com/@joystream8627)  | [Our documentation](https://handbook.joystream.org/)
 
-- A protocol focused on decentralized liquidity provision.
-- Supports multi-chain aggregation, starting with Binance Smart Chain (BSC) and Arbitrum (ARB).
-- Strives for stable Web3 liquidity and builds a comprehensive financial service system.
+### **Our Products**
 
-**[LUCHOUSL](https://gleev.xyz/channel/48559)**
+- **Video App [GLEEV](https://gleev.xyz/)**
+- **Governance App [Pioneer](https://pioneerapp.xyz/)**
 
-- Channel has 20,710,164 views, 139K subscribers, and 348 videos.
-- Primary focus on Cryptocurrencies, Online Business, and Finances.
-- Engaging content spans various topics within these thematic areas.
+### **Information For Newcomers**
 
-# Useful Links
+- **How you can earn $JOY as a creator:** [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
+- **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
 
-### Official Channels
-
-[Joystream Website](https://www.joystream.org/) | [Medium](https://blog.joystream.org/) | [Twitter](https://twitter.com/JoystreamDAO/) | [GitHub](https://github.com/Joystream) | [Discord](https://discord.com/invite/DE9UN3YpRP) | [Reddit](https://www.reddit.com/r/joystream_dao/) | [YouTube](https://www.youtube.com/@joystream8627)  | [Our documentation](https://handbook.joystream.org/)
-
-### Our Products
-
-- **Video apps [GLEEV](https://gleev.xyz/) | [L1Media](https://l1.media/)**
-- **Governance app [Pioneer](https://pioneerapp.xyz/)**
-
-### Information For Newcomers
-
-- **How you can earn $JOY as a creator:** [Join YPP |](https://gleev.xyz/ypp) [Sell your videos as NFTs](https://www.joystream.org/ru/#video-nfts) | [Set up your creator token](https://www.joystream.org/ru/#creator-tokens)
-- **How you can earn $JOY as a DAO participant:** [Join a Working Group](https://pioneerapp.xyz/#/working-groups/openings) | [Validate and Stake](https://handbook.joystream.org/system/nomination) | [Opportunities](https://discord.com/channels/811216481340751934/1119240044830527529)
-
-# Disclaimer
+# **Disclaimer**
 
 All forward looking statements, estimates and commitments found in this blog post should be understood to be highly uncertain, not binding and for which no guarantees of accuracy or reliability can be provided. To the fullest extent permitted by law, in no event shall Joystream, Jsgenesis or our affiliates, or any of our directors, employees, contractors, service providers or agents have any liability whatsoever to any person for any direct or indirect loss, liability, cost, claim, expense or damage of any kind, whether in contract or in tort, including negligence, or otherwise, arising out of or related to the use of all or part of this post, or any links to third party websites.
