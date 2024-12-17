@@ -1,4 +1,4 @@
-![9 december](https://github.com/user-attachments/assets/08b4693f-882b-4338-b5b9-cfff9e1bac63)
+![16 dec](https://github.com/user-attachments/assets/145eedb0-ec51-4d4f-a04e-0a216aacf583)
 
 **09 December 2024 - 16 December 2024**
 
@@ -34,7 +34,7 @@ DAO Spending:
 - Weekly Videos Growth, qty: **23,454**
 - Weekly Videos Growth, %: **1.59%**
 
-![videos 9](https://github.com/user-attachments/assets/6e71b827-9a12-48aa-9404-5deed4ede7af)
+![videos 16](https://github.com/user-attachments/assets/3eb9c1d7-b334-4236-bda8-a94f7853d590)
 
 ### Channels
 
@@ -44,7 +44,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Channels Growth, qty: **30**
 - Weekly Channels Growth, **0.1%**
 
-![channels 9](https://github.com/user-attachments/assets/1c352106-f2ac-482b-a109-6fc957b2d2f6)
+![channels 16](https://github.com/user-attachments/assets/6df4bb23-a687-4df1-bafe-76df41f30c91)
 
 ### Media Storage
 
@@ -52,7 +52,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Storage Used Growth: **2,457.837 GB**
 - Weekly Storage Used Growth, %: **2.18%**
 
-![storage 9](https://github.com/user-attachments/assets/70afa492-6121-49f8-b751-8b5355648b52)
+![storage 16](https://github.com/user-attachments/assets/fa209c01-f305-47fd-ad82-1aecc0d1f5f1)
 
 ### Video NFTs
 
@@ -61,7 +61,7 @@ Provided stats below are for non-empty channels only:
 - Weekly NFT Growth, %: **0.04%**
 - Weekly NFT sold: 0
 
-![nfts 9](https://github.com/user-attachments/assets/8d8d00f0-a9ae-4ae2-a0bf-ce82a4cfe22f)
+![nft 16](https://github.com/user-attachments/assets/ef7986c3-5817-446f-9898-d1813e14f924)
 
 ### Creator tokens
 
@@ -76,7 +76,7 @@ Provided stats below are for non-empty channels only:
 - Weekly Membership Accounts Growth: **111**
 - Weekly Membership Accounts Growth, %: **0.17%**
 
-![members 9](https://github.com/user-attachments/assets/3cbd2050-3e46-4f6c-b4ba-c8ff1f74dda1)
+![member 16](https://github.com/user-attachments/assets/9b5b6bf0-1bd4-47be-ad42-36839e508edc)
 
 # **Upcoming Events**
 
