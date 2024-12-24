@@ -78,16 +78,6 @@ Provided stats below are for non-empty channels only:
 
 ![member 23](https://github.com/user-attachments/assets/08e9c599-9d0f-4f41-a1ca-91b3a052da7f)
 
-# Proposals
-
-### Passed
-
-- [YPP rewards paid on 10.12.2024](https://pioneerapp.xyz/#/proposals/preview/1058)
-
-### Expired
-
-- [Jsgenesis to disclose Reserved 1 (11.8%)](https://pioneerapp.xyz/#/proposals/preview/1057)
-
 # **Upcoming Events**
 
 - DAO Daily Standup: Everyday From Monday-Friday at 9:30 am CET
@@ -105,9 +95,13 @@ Provided stats below are for non-empty channels only:
 
 # Proposals
 
+### Passed
+
+- [YPP rewards paid on 10.12.2024](https://pioneerapp.xyz/#/proposals/preview/1058)
+
 ### Expired
 
-- [Reduce CM Salary Into Half v3](https://pioneerapp.xyz/#/proposals/preview/1056)
+- [Jsgenesis to disclose Reserved 1 (11.8%)](https://pioneerapp.xyz/#/proposals/preview/1057)
 
 # **Short-Term Roadmap**
 
