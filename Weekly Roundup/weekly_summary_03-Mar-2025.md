@@ -22,7 +22,6 @@ DAO Spending:
 - Council rewards: **233,333.333 JOY**
 - WG spent: **42,415.883 JOY**
 - Funding proposals: **94,717 JOY**
-- Creator payout: **0 JOY**
 - Validator rewards: **249,942 JOY**
 - Fees and token burn: **(3,549,387.201) JOY**
 
