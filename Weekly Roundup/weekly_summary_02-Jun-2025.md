@@ -8,7 +8,7 @@
 # Tokenomics
 
 - Total supply: **1,097,349,713.746 JOY**
-- JOY inflation (past 12 months): **9.74%**
+- JOY inflation (past 12 months): **4.2526%**
 - Circulating supply: **1,078,110,486 JOY**
 - Weekly Tokens Minted: **2,753,761.501 JOY**
 
